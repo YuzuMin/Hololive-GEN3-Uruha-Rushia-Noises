@@ -18,7 +18,7 @@ MIT License
 * uruhanoise1 Banana
 * uruhanoise2 Delicious Banana
 * uruhanoise3 Bruh (Buruh)
-* uruhanoise4
+* uruhanoise4 Eh!
 * uruhanoise5
 * uruhanoise6
 * uruhanoise7
