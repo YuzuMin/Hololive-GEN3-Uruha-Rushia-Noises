@@ -1,11 +1,11 @@
-# Rushia Uruha Noises
-Uruha Noises is a clicker app for Android smartphones and tablets that brings entertainment to you by playing noises made by Rushia.
+# Uruha Rushia Noises
+Rushia Noises is a clicker app for Android smartphones and tablets that brings entertainment to you by playing noises made by Rushia.
 The interface of Rushia Noises is designed to be simple, intuitive and efficient. By removing what is not essential, we make access to everything you need even easier.
 
 # Download
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"
 alt="Get it on Google Play"
-height="80">](https://play.google.com/store/apps/details?id=com.yuzumin.uruhanoises)
+height="80">](https://play.google.com/store/apps/details?id=com.yuzumin.rushianoises)
 
 # Features
 * 50 Noises
@@ -15,53 +15,53 @@ height="80">](https://play.google.com/store/apps/details?id=com.yuzumin.uruhanoi
 MIT License
 
 # List of Noises
-* uruhanoise1 Banana
-* uruhanoise2 Delicious Banana
-* uruhanoise3 Bruh (Buruh)
-* uruhanoise4 Eh!
-* uruhanoise5 I will love you
-* uruhanoise6 I love you
-* uruhanoise7 Nya nya
-* uruhanoise8 Nya nya (2nd variant)
-* uruhanoise9 Not Pettan!
-* uruhanoise10 Not Pettan! x2
-* uruhanoise11 Not Pettan I'm Boin Boin Rushia Ora!
-* uruhanoise12 Yeah!
-* uruhanoise13 すみません
-* uruhanoise14 Ahhh
-* uruhanoise15
-* uruhanoise16
-* uruhanoise17
-* uruhanoise18
-* uruhanoise19
-* uruhanoise20
-* uruhanoise21
-* uruhanoise22
-* uruhanoise23
-* uruhanoise24
-* uruhanoise25
-* uruhanoise26
-* uruhanoise27
-* uruhanoise28
-* uruhanoise29
-* uruhanoise30
-* uruhanoise31
-* uruhanoise32
-* uruhanoise33
-* uruhanoise34
-* uruhanoise35
-* uruhanoise36
-* uruhanoise37
-* uruhanoise38
-* uruhanoise39
-* uruhanoise40
-* uruhanoise41
-* uruhanoise42
-* uruhanoise43
-* uruhanoise44
-* uruhanoise45
-* uruhanoise46
-* uruhanoise47
-* uruhanoise48
-* uruhanoise49
-* uruhanoise50
+* rushianoise1 Banana
+* rushianoise2 Delicious Banana
+* rushianoise3 Bruh (Buruh)
+* rushianoise4 Eh!
+* rushianoise5 I will love you
+* rushianoise6 I love you
+* rushianoise7 Nya nya
+* rushianoise8 Nya nya (2nd variant)
+* rushianoise9 Not Pettan!
+* rushianoise10 Not Pettan! x2
+* rushianoise11 Not Pettan I'm Boin Boin Rushia Ora!
+* rushianoise12 Yeah!
+* rushianoise13 すみません
+* rushianoise14 Ahhh
+* rushianoise15
+* rushianoise16
+* rushianoise17
+* rushianoise18
+* rushianoise19
+* rushianoise20
+* rushianoise21
+* rushianoise22
+* rushianoise23
+* rushianoise24
+* rushianoise25
+* rushianoise26
+* rushianoise27
+* rushianoise28
+* rushianoise29
+* rushianoise30
+* rushianoise31
+* rushianoise32
+* rushianoise33
+* rushianoise34
+* rushianoise35
+* rushianoise36
+* rushianoise37
+* rushianoise38
+* rushianoise39
+* rushianoise40
+* rushianoise41
+* rushianoise42
+* rushianoise43
+* rushianoise44
+* rushianoise45
+* rushianoise46
+* rushianoise47
+* rushianoise48
+* rushianoise49
+* rushianoise50
