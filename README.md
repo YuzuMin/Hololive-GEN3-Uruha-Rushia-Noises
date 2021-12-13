@@ -15,7 +15,7 @@ height="80">](https://play.google.com/store/apps/details?id=com.yuzumin.uruhanoi
 MIT License
 
 # List of Noises
-* uruhanoise1
+* uruhanoise1 Banana
 * uruhanoise2
 * uruhanoise3
 * uruhanoise4
