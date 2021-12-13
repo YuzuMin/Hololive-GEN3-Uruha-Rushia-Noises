@@ -25,9 +25,9 @@ MIT License
 * uruhanoise8 Nya nya (2nd variant)
 * uruhanoise9 Not Pettan!
 * uruhanoise10 Not Pettan! x2
-* uruhanoise11
-* uruhanoise12
-* uruhanoise13
+* uruhanoise11 Not Pettan I'm Boin Boin Rushia Ora!
+* uruhanoise12 Yeah!
+* uruhanoise13 すみません
 * uruhanoise14
 * uruhanoise15
 * uruhanoise16
