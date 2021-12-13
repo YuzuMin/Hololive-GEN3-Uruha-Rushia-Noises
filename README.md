@@ -16,8 +16,8 @@ MIT License
 
 # List of Noises
 * uruhanoise1 Banana
-* uruhanoise2
-* uruhanoise3
+* uruhanoise2 Delicious Banana
+* uruhanoise3 Bruh (Buruh)
 * uruhanoise4
 * uruhanoise5
 * uruhanoise6
