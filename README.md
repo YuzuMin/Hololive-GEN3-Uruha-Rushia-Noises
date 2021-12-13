@@ -19,12 +19,12 @@ MIT License
 * uruhanoise2 Delicious Banana
 * uruhanoise3 Bruh (Buruh)
 * uruhanoise4 Eh!
-* uruhanoise5
-* uruhanoise6
-* uruhanoise7
-* uruhanoise8
-* uruhanoise9
-* uruhanoise10
+* uruhanoise5 I will love you
+* uruhanoise6 I love you
+* uruhanoise7 Nya nya
+* uruhanoise8 Nya nya (2nd variant)
+* uruhanoise9 Not Pettan!
+* uruhanoise10 Not Pettan! x2
 * uruhanoise11
 * uruhanoise12
 * uruhanoise13
