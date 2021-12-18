@@ -22,16 +22,16 @@ MIT License
 * rushianoise5 I will love you
 * rushianoise6 I love you
 * rushianoise7 Nya nya
-* rushianoise8 Nya nya (2nd variant)
+* rushianoise8 Nya nya (ver 2)
 * rushianoise9 Not Pettan!
 * rushianoise10 Not Pettan! x2
 * rushianoise11 Not Pettan I'm Boin Boin Rushia Ora!
 * rushianoise12 Yeah!
 * rushianoise13 すみません
 * rushianoise14 Ahhh
-* rushianoise15
-* rushianoise16
-* rushianoise17
+* rushianoise15 Praise me
+* rushianoise16 Pettan x2
+* rushianoise17 *Rushia laugh*
 * rushianoise18
 * rushianoise19
 * rushianoise20
