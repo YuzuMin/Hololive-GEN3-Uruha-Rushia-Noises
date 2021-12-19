@@ -32,10 +32,10 @@ MIT License
 * rushianoise15 Praise me
 * rushianoise16 Pettan x2
 * rushianoise17 *Rushia laugh*
-* rushianoise18
-* rushianoise19
-* rushianoise20
-* rushianoise21
+* rushianoise18 Oh my gah
+* rushianoise19 Not Pettan (calmly)
+* rushianoise20 Yes!
+* rushianoise21 *Confused Rushia*
 * rushianoise22
 * rushianoise23
 * rushianoise24
