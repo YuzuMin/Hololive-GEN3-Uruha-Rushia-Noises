@@ -36,11 +36,11 @@ MIT License
 * rushianoise19 Not Pettan (calmly)
 * rushianoise20 Yes!
 * rushianoise21 *Confused Rushia*
-* rushianoise22
-* rushianoise23
-* rushianoise24
-* rushianoise25
-* rushianoise26
+* rushianoise22 そう x5
+* rushianoise23 間違えた
+* rushianoise24 I'm good!
+* rushianoise25 Thank You!
+* rushianoise26 I'm fire!
 * rushianoise27
 * rushianoise28
 * rushianoise29
