@@ -41,25 +41,25 @@ MIT License
 * rushianoise24 I'm good!
 * rushianoise25 Thank You!
 * rushianoise26 I'm fire!
-* rushianoise27
-* rushianoise28
-* rushianoise29
-* rushianoise30
-* rushianoise31
-* rushianoise32
-* rushianoise33
-* rushianoise34
-* rushianoise35
-* rushianoise36
-* rushianoise37
-* rushianoise38
-* rushianoise39
-* rushianoise40
-* rushianoise41
-* rushianoise42
-* rushianoise43
-* rushianoise44
-* rushianoise45
+* rushianoise27 皆
+* rushianoise28 よく聞いて
+* rushianoise29 Repeat after me
+* rushianoise30 ただいま
+* rushianoise31 ありがと
+* rushianoise32 Go home
+* rushianoise33 I'm home
+* rushianoise34 No! x5
+* rushianoise35 No!
+* rushianoise36 No! x3
+* rushianoise37 えと
+* rushianoise38 Sorry Sorry
+* rushianoise39 Not(to)!
+* rushianoise40 Welcome x2
+* rushianoise41 *Rushia Scream*
+* rushianoise42 Welcome なの!
+* rushianoise43 Nice to meet you!
+* rushianoise44 I love you (ver 2)
+* rushianoise45 I need you
 * rushianoise46
 * rushianoise47
 * rushianoise48
