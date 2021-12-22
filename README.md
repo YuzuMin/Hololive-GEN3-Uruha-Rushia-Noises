@@ -60,8 +60,8 @@ MIT License
 * rushianoise43 Nice to meet you!
 * rushianoise44 I love you (ver 2)
 * rushianoise45 I need you
-* rushianoise46
-* rushianoise47
-* rushianoise48
-* rushianoise49
+* rushianoise46 Flat(to)
+* rushianoise47 Not Flaaaa.. to
+* rushianoise48 Not Flat!
+* rushianoise49 *Self introduction*
 * rushianoise50
