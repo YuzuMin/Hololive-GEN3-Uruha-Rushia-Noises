@@ -65,3 +65,5 @@ MIT License
 * rushianoise48 Not Flat!
 * rushianoise49 *Self introduction*
 * rushianoise50 *Excited Scream*
+* rushianoise51 Kusogaaaaa!!!!
+* rushianoise52 *Raging Rushia*
