@@ -70,3 +70,4 @@ MIT License
 * rushianoise53 Botan Chan Gambatte Gomenne
 * rushianoise54 *Rushia Scream* (2nd variant)
 * rushianoise55 なにこれ
+* rushianoise56 Thank you very much
