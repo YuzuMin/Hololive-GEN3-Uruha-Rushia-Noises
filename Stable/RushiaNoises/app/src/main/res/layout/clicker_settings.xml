@@ -168,93 +168,111 @@
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content">
                                     <TableRow
-                                        android:id="@+id/uto0_img_row">
+                                        android:id="@+id/rushia0_img_row">
                                         <ImageView
                                             android:padding="10dp"
-                                            android:src="@drawable/uto0"
+                                            android:src="@drawable/rushia0"
                                             android:layout_width="100dp"
                                             android:layout_height="100dp"/>
                                         <RadioButton
-                                            android:id="@+id/uto0_img"
+                                            android:id="@+id/rushia0_img"
                                             android:layout_gravity="center_vertical"
                                             android:textSize="17dp"
                                             android:buttonTint="@color/colorAccent"
-                                            android:text="Uto 0"
+                                            android:text="Rushia 0"
                                             android:textColor="@color/colorAccent"
                                             android:layout_width="match_parent"
                                             android:layout_height="wrap_content"/>
                                     </TableRow>
 
                                     <TableRow
-                                        android:id="@+id/uto1_img_row">
+                                        android:id="@+id/rushia1_img_row">
                                         <ImageView
                                             android:padding="10dp"
-                                            android:src="@drawable/uto1"
+                                            android:src="@drawable/rushia1"
                                             android:layout_width="100dp"
                                             android:layout_height="100dp"/>
                                         <RadioButton
-                                            android:id="@+id/uto1_img"
+                                            android:id="@+id/rushia1_img"
                                             android:layout_gravity="center_vertical"
                                             android:textSize="17dp"
                                             android:buttonTint="@color/colorAccent"
-                                            android:text="Uto 1"
+                                            android:text="Rushia 1"
                                             android:textColor="@color/colorAccent"
                                             android:layout_width="match_parent"
                                             android:layout_height="wrap_content"/>
                                     </TableRow>
 
                                     <TableRow
-                                        android:id="@+id/uto2_img_row">
+                                        android:id="@+id/rushia2_img_row">
                                         <ImageView
                                             android:padding="10dp"
-                                            android:src="@drawable/uto2"
+                                            android:src="@drawable/rushia2"
                                             android:layout_width="100dp"
                                             android:layout_height="100dp"/>
                                         <RadioButton
-                                            android:id="@+id/uto2_img"
+                                            android:id="@+id/rushia2_img"
                                             android:layout_gravity="center_vertical"
                                             android:textSize="17dp"
                                             android:buttonTint="@color/colorAccent"
-                                            android:text="Uto 2"
+                                            android:text="Rushia 2"
                                             android:textColor="@color/colorAccent"
                                             android:layout_width="match_parent"
                                             android:layout_height="wrap_content"/>
                                     </TableRow>
 
                                     <TableRow
-                                        android:id="@+id/uto3_img_row">
+                                        android:id="@+id/rushia3_img_row">
                                         <ImageView
                                             android:padding="10dp"
-                                            android:src="@drawable/uto3"
+                                            android:src="@drawable/rushia3"
                                             android:layout_width="100dp"
                                             android:layout_height="100dp"/>
                                         <RadioButton
-                                            android:id="@+id/uto3_img"
+                                            android:id="@+id/rushia3_img"
                                             android:layout_gravity="center_vertical"
                                             android:textSize="17dp"
                                             android:buttonTint="@color/colorAccent"
-                                            android:text="Uto 3"
+                                            android:text="Rushia 3"
                                             android:textColor="@color/colorAccent"
                                             android:layout_width="match_parent"
                                             android:layout_height="wrap_content"/>
                                     </TableRow>
 
                                     <TableRow
-                                        android:id="@+id/uto4_img_row">
+                                        android:id="@+id/rushia4_img_row">
                                         <ImageView
                                             android:padding="10dp"
-                                            android:src="@drawable/uto4"
+                                            android:src="@drawable/rushia4"
                                             android:layout_width="100dp"
                                             android:layout_height="100dp"/>
                                         <RadioButton
-                                            android:id="@+id/uto4_img"
+                                            android:id="@+id/rushia4_img"
                                             android:layout_gravity="center_vertical"
                                             android:textSize="17dp"
                                             android:buttonTint="@color/colorAccent"
-                                            android:text="Uto 4"
+                                            android:text="Rushia 4"
                                             android:textColor="@color/colorAccent"
                                             android:layout_width="match_parent"
                                             android:layout_height="wrap_content"/>
+                                    </TableRow>
+
+                                    <TableRow
+                                        android:id="@+id/rushia5_img_row">
+                                    <ImageView
+                                        android:padding="10dp"
+                                        android:src="@drawable/rushia5"
+                                        android:layout_width="100dp"
+                                        android:layout_height="100dp"/>
+                                    <RadioButton
+                                        android:id="@+id/rushia5_img"
+                                        android:layout_gravity="center_vertical"
+                                        android:textSize="17dp"
+                                        android:buttonTint="@color/colorAccent"
+                                        android:text="Rushia 5"
+                                        android:textColor="@color/colorAccent"
+                                        android:layout_width="match_parent"
+                                        android:layout_height="wrap_content"/>
                                     </TableRow>
                                 </TableLayout>
 
