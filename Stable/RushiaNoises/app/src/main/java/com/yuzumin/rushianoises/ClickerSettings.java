@@ -14,16 +14,18 @@ public class ClickerSettings extends AppCompatActivity {
 
     ImageView back_btn;
 
-    TableRow UtoIMG0Row;
-    TableRow UtoIMG1Row;
-    TableRow UtoIMG2Row;
-    TableRow UtoIMG3Row;
-    TableRow UtoIMG4Row;
-    RadioButton UtoIMG0;
-    RadioButton UtoIMG1;
-    RadioButton UtoIMG2;
-    RadioButton UtoIMG3;
-    RadioButton UtoIMG4;
+    TableRow RushiaIMG0Row;
+    TableRow RushiaIMG1Row;
+    TableRow RushiaIMG2Row;
+    TableRow RushiaIMG3Row;
+    TableRow RushiaIMG4Row;
+    TableRow RushiaIMG5Row;
+    RadioButton RushiaIMG0;
+    RadioButton RushiaIMG1;
+    RadioButton RushiaIMG2;
+    RadioButton RushiaIMG3;
+    RadioButton RushiaIMG4;
+    RadioButton RushiaIMG5;
 
     Integer charavalue;
 
@@ -49,134 +51,198 @@ public class ClickerSettings extends AppCompatActivity {
             }
         });
 
+        RushiaIMG0=findViewById(R.id.rushia0_img);
+        RushiaIMG0Row=findViewById(R.id.rushia0_img_row);
+        RushiaIMG1=findViewById(R.id.rushia1_img);
+        RushiaIMG1Row=findViewById(R.id.rushia1_img_row);
+        RushiaIMG2=findViewById(R.id.rushia2_img);
+        RushiaIMG2Row=findViewById(R.id.rushia2_img_row);
+        RushiaIMG3=findViewById(R.id.rushia3_img);
+        RushiaIMG3Row=findViewById(R.id.rushia3_img_row);
+        RushiaIMG4=findViewById(R.id.rushia4_img);
+        RushiaIMG4Row=findViewById(R.id.rushia4_img_row);
+        RushiaIMG5=findViewById(R.id.rushia5_img);
+        RushiaIMG5Row=findViewById(R.id.rushia5_img_row);
 
-        UtoIMG0 =findViewById(R.id.uto0_img);
-        UtoIMG0Row =findViewById(R.id.uto0_img_row);
-        UtoIMG1 =findViewById(R.id.uto1_img);
-        UtoIMG1Row =findViewById(R.id.uto1_img_row);
-        UtoIMG2=findViewById(R.id.uto2_img);
-        UtoIMG2Row=findViewById(R.id.uto2_img_row);
-        UtoIMG3=findViewById(R.id.uto3_img);
-        UtoIMG3Row=findViewById(R.id.uto3_img_row);
-        UtoIMG4=findViewById(R.id.uto4_img);
-        UtoIMG4Row=findViewById(R.id.uto4_img_row);
 
-
-
-        UtoIMG0.setOnClickListener(new View.OnClickListener() {
+        RushiaIMG0.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 charavalue=0;
                 SoundSettingsEditor =getSharedPreferences("Chara",MODE_PRIVATE).edit();
                 SoundSettingsEditor.putInt("CharaValue",charavalue);
                 SoundSettingsEditor.apply();
-                UtoIMG0.setChecked(true);
-                UtoIMG1.setChecked(false);
+                RushiaIMG0.setChecked(true);
+                RushiaIMG1.setChecked(false);
+                RushiaIMG2.setChecked(false);
+                RushiaIMG3.setChecked(false);
+                RushiaIMG4.setChecked(false);
+                RushiaIMG5.setChecked(false);
             }
         });
-        UtoIMG0Row.setOnClickListener(new View.OnClickListener() {
+        RushiaIMG0Row.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 charavalue=0;
                 SoundSettingsEditor =getSharedPreferences("Chara",MODE_PRIVATE).edit();
                 SoundSettingsEditor.putInt("CharaValue",charavalue);
                 SoundSettingsEditor.apply();
-                UtoIMG0.setChecked(true);
-                UtoIMG1.setChecked(false);
+                RushiaIMG0.setChecked(true);
+                RushiaIMG1.setChecked(false);
+                RushiaIMG2.setChecked(false);
+                RushiaIMG3.setChecked(false);
+                RushiaIMG4.setChecked(false);
+                RushiaIMG5.setChecked(false);
             }
         });
-        UtoIMG1.setOnClickListener(new View.OnClickListener() {
+        RushiaIMG1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 charavalue=1;
                 SoundSettingsEditor =getSharedPreferences("Chara",MODE_PRIVATE).edit();
                 SoundSettingsEditor.putInt("CharaValue",charavalue);
                 SoundSettingsEditor.apply();
-                UtoIMG0.setChecked(false);
-                UtoIMG1.setChecked(true);
+                RushiaIMG0.setChecked(false);
+                RushiaIMG1.setChecked(true);
+                RushiaIMG2.setChecked(false);
+                RushiaIMG3.setChecked(false);
+                RushiaIMG4.setChecked(false);
+                RushiaIMG5.setChecked(false);
             }
         });
-        UtoIMG1Row.setOnClickListener(new View.OnClickListener() {
+        RushiaIMG1Row.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 charavalue=1;
                 SoundSettingsEditor =getSharedPreferences("Chara",MODE_PRIVATE).edit();
                 SoundSettingsEditor.putInt("CharaValue",charavalue);
                 SoundSettingsEditor.apply();
-                UtoIMG0.setChecked(false);
-                UtoIMG1.setChecked(true);
+                RushiaIMG0.setChecked(false);
+                RushiaIMG1.setChecked(true);
+                RushiaIMG2.setChecked(false);
+                RushiaIMG3.setChecked(false);
+                RushiaIMG4.setChecked(false);
+                RushiaIMG5.setChecked(false);
             }
         });
-        UtoIMG2.setOnClickListener(new View.OnClickListener() {
+        RushiaIMG2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 charavalue=2;
                 SoundSettingsEditor =getSharedPreferences("Chara",MODE_PRIVATE).edit();
                 SoundSettingsEditor.putInt("CharaValue",charavalue);
                 SoundSettingsEditor.apply();
-                UtoIMG2.setChecked(true);
-                UtoIMG3.setChecked(false);
-                UtoIMG4.setChecked(false);
+                RushiaIMG0.setChecked(false);
+                RushiaIMG1.setChecked(false);
+                RushiaIMG2.setChecked(true);
+                RushiaIMG3.setChecked(false);
+                RushiaIMG4.setChecked(false);
+                RushiaIMG5.setChecked(false);
             }
         });
-        UtoIMG2Row.setOnClickListener(new View.OnClickListener() {
+        RushiaIMG2Row.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 charavalue=2;
                 SoundSettingsEditor =getSharedPreferences("Chara",MODE_PRIVATE).edit();
                 SoundSettingsEditor.putInt("CharaValue",charavalue);
                 SoundSettingsEditor.apply();
-                UtoIMG2.setChecked(true);
-                UtoIMG3.setChecked(false);
-                UtoIMG4.setChecked(false);
+                RushiaIMG0.setChecked(false);
+                RushiaIMG1.setChecked(false);
+                RushiaIMG2.setChecked(true);
+                RushiaIMG3.setChecked(false);
+                RushiaIMG4.setChecked(false);
+                RushiaIMG5.setChecked(false);
             }
         });
-        UtoIMG3.setOnClickListener(new View.OnClickListener() {
+        RushiaIMG3.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 charavalue=3;
                 SoundSettingsEditor =getSharedPreferences("Chara",MODE_PRIVATE).edit();
                 SoundSettingsEditor.putInt("CharaValue",charavalue);
                 SoundSettingsEditor.apply();
-                UtoIMG2.setChecked(false);
-                UtoIMG3.setChecked(true);
-                UtoIMG4.setChecked(false);
+                RushiaIMG0.setChecked(false);
+                RushiaIMG1.setChecked(false);
+                RushiaIMG2.setChecked(false);
+                RushiaIMG3.setChecked(true);
+                RushiaIMG4.setChecked(false);
+                RushiaIMG5.setChecked(false);
             }
         });
-        UtoIMG3Row.setOnClickListener(new View.OnClickListener() {
+        RushiaIMG3Row.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 charavalue=3;
                 SoundSettingsEditor =getSharedPreferences("Chara",MODE_PRIVATE).edit();
                 SoundSettingsEditor.putInt("CharaValue",charavalue);
                 SoundSettingsEditor.apply();
-                UtoIMG2.setChecked(false);
-                UtoIMG3.setChecked(true);
-                UtoIMG4.setChecked(false);
+                RushiaIMG0.setChecked(false);
+                RushiaIMG1.setChecked(false);
+                RushiaIMG2.setChecked(false);
+                RushiaIMG3.setChecked(true);
+                RushiaIMG4.setChecked(false);
+                RushiaIMG5.setChecked(false);
             }
         });
-        UtoIMG4.setOnClickListener(new View.OnClickListener() {
+        RushiaIMG4.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 charavalue=4;
                 SoundSettingsEditor =getSharedPreferences("Chara",MODE_PRIVATE).edit();
                 SoundSettingsEditor.putInt("CharaValue",charavalue);
                 SoundSettingsEditor.apply();
-                UtoIMG2.setChecked(false);
-                UtoIMG3.setChecked(false);
-                UtoIMG4.setChecked(true);
+                RushiaIMG0.setChecked(false);
+                RushiaIMG1.setChecked(false);
+                RushiaIMG2.setChecked(false);
+                RushiaIMG3.setChecked(false);
+                RushiaIMG4.setChecked(true);
+                RushiaIMG5.setChecked(false);
             }
         });
-        UtoIMG4Row.setOnClickListener(new View.OnClickListener() {
+        RushiaIMG4Row.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 charavalue=4;
                 SoundSettingsEditor =getSharedPreferences("Chara",MODE_PRIVATE).edit();
                 SoundSettingsEditor.putInt("CharaValue",charavalue);
                 SoundSettingsEditor.apply();
-                UtoIMG2.setChecked(false);
-                UtoIMG3.setChecked(false);
-                UtoIMG4.setChecked(true);
+                RushiaIMG0.setChecked(false);
+                RushiaIMG1.setChecked(false);
+                RushiaIMG2.setChecked(false);
+                RushiaIMG3.setChecked(false);
+                RushiaIMG4.setChecked(true);
+                RushiaIMG5.setChecked(false);
+            }
+        });
+        RushiaIMG5.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                charavalue=5;
+                SoundSettingsEditor =getSharedPreferences("Chara",MODE_PRIVATE).edit();
+                SoundSettingsEditor.putInt("CharaValue",charavalue);
+                SoundSettingsEditor.apply();
+                RushiaIMG0.setChecked(false);
+                RushiaIMG1.setChecked(false);
+                RushiaIMG2.setChecked(false);
+                RushiaIMG3.setChecked(false);
+                RushiaIMG4.setChecked(false);
+                RushiaIMG5.setChecked(true);
+            }
+        });
+        RushiaIMG5Row.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                charavalue=5;
+                SoundSettingsEditor =getSharedPreferences("Chara",MODE_PRIVATE).edit();
+                SoundSettingsEditor.putInt("CharaValue",charavalue);
+                SoundSettingsEditor.apply();
+                RushiaIMG0.setChecked(false);
+                RushiaIMG1.setChecked(false);
+                RushiaIMG2.setChecked(false);
+                RushiaIMG3.setChecked(false);
+                RushiaIMG4.setChecked(false);
+                RushiaIMG5.setChecked(true);
             }
         });
 
@@ -254,19 +320,22 @@ public class ClickerSettings extends AppCompatActivity {
 
         switch (charavalue) {
             case 0:
-                UtoIMG0.setChecked(true);
+                RushiaIMG0.setChecked(true);
                 break;
             case 1:
-                UtoIMG1.setChecked(true);
+                RushiaIMG1.setChecked(true);
                 break;
             case 2:
-                UtoIMG2.setChecked(true);
+                RushiaIMG2.setChecked(true);
                 break;
             case 3:
-                UtoIMG3.setChecked(true);
+                RushiaIMG3.setChecked(true);
+                break;
+            case 4:
+                RushiaIMG4.setChecked(true);
                 break;
             default:
-                UtoIMG4.setChecked(true);
+                RushiaIMG5.setChecked(true);
                 break;
         }
     }
