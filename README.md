@@ -16,6 +16,7 @@ MIT License
 
 # Image Sauces <br>
 * <a href="https://twitter.com/uruharushia/status/1483089890753806344">Social Preview</a> <br>
+* <a href="https://pbs.twimg.com/media/FIbS4AuaAAIt0I6?format=jpg&name=large">in app Background</a> <br>
 * <a href="https://cdn.donmai.us/original/0d/85/__uruha_rushia_hololive_drawn_by_shinonome_asu__0d85f353c9353415b2edd84968fba94e.jpg">Rushia 0</a> <br>
 * <a href="https://danbooru.donmai.us/posts/4348159">Rushia 1</a> <br>
 
