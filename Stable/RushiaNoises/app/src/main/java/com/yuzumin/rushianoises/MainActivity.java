@@ -1733,6 +1733,14 @@ public class MainActivity extends AppCompatActivity implements Count.CountListen
             SoundBTN47.setVisibility(View.GONE);
         }
 
+        userPreferences = getSharedPreferences("save50", MODE_PRIVATE);
+        if (userPreferences.getBoolean("value50",true)) {
+            listofsounds.add(50);
+            SoundBTN48.setVisibility(View.VISIBLE);
+        }else{
+            SoundBTN48.setVisibility(View.GONE);
+        }
+
         userPreferences = getSharedPreferences("save51", MODE_PRIVATE);
         if (userPreferences.getBoolean("value51",true)) {
             listofsounds.add(51);
@@ -1791,13 +1799,7 @@ public class MainActivity extends AppCompatActivity implements Count.CountListen
 
         //For explicit content
         if(DevCount==7){
-            userPreferences = getSharedPreferences("save50", MODE_PRIVATE);
-            if (userPreferences.getBoolean("value50",true)) {
-                listofsounds.add(50);
-                SoundBTN48.setVisibility(View.VISIBLE);
-            }else{
-                SoundBTN48.setVisibility(View.GONE);
-            }
+
         }
 
     }
