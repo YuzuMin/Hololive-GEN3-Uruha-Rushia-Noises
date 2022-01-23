@@ -1115,6 +1115,27 @@
                                                 android:layout_height="match_parent">
 
                                                 <TextView
+                                                    android:layout_width="wrap_content"
+                                                    android:layout_height="wrap_content"
+                                                    android:layout_weight="1"
+                                                    android:text="@string/noise48_text"
+                                                    android:textColor="#f1f1f1"
+                                                    android:textSize="17sp" />
+
+                                                <Switch
+                                                    android:id="@+id/switch50"
+                                                    android:layout_width="match_parent"
+                                                    android:layout_height="wrap_content" />
+
+                                            </TableRow>
+
+                                            <TableRow
+                                                android:layout_marginBottom="5dp"
+                                                android:paddingLeft="10dp"
+                                                android:layout_width="match_parent"
+                                                android:layout_height="match_parent">
+
+                                                <TextView
                                                     android:layout_weight="1"
                                                     android:layout_width="wrap_content"
                                                     android:layout_height="wrap_content"
@@ -1262,26 +1283,7 @@
                                             android:layout_width="match_parent"
                                             android:layout_height="wrap_content">
 
-                                            <TableRow
-                                                android:layout_marginBottom="5dp"
-                                                android:paddingLeft="10dp"
-                                                android:layout_width="match_parent"
-                                                android:layout_height="match_parent">
 
-                                                <TextView
-                                                    android:layout_width="wrap_content"
-                                                    android:layout_height="wrap_content"
-                                                    android:layout_weight="1"
-                                                    android:text="@string/noise48_text"
-                                                    android:textColor="#f1f1f1"
-                                                    android:textSize="17sp" />
-
-                                                <Switch
-                                                    android:id="@+id/switch50"
-                                                    android:layout_width="match_parent"
-                                                    android:layout_height="wrap_content" />
-
-                                            </TableRow>
 
                                         </TableLayout>
 
