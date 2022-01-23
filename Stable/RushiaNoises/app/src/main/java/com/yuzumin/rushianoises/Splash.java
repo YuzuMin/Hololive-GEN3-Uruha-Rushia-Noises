@@ -97,7 +97,7 @@ public class Splash extends AppCompatActivity {
         {
 
 
-            String str="https://raw.githubusercontent.com/YuzuMin/IndieVtuberJP-Amatsuka-Uto-Noises/main/Activation/VC-2.json";
+            String str="https://raw.githubusercontent.com/YuzuMin/Hololive-GEN3-Uruha-Rushia-Noises/main/Activation/VC-1.json";
             URLConnection urlConn = null;
             BufferedReader bufferedReader = null;
             try
