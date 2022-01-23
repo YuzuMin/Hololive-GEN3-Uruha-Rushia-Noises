@@ -17,7 +17,7 @@
     <string name="settings">设置</string>
     <string name="toggle">切换</string>
     <!--Clicker Settings-->
-    <string name="turn_on_clicker">激活Yagoo按钮</string>
+    <string name="turn_on_clicker">激活按钮</string>
     <string name="show_popup_text">显示弹出文本</string>
     <string name="show_button_bar">显示按钮栏</string>
     <string name="character_settings">角色设置</string>
