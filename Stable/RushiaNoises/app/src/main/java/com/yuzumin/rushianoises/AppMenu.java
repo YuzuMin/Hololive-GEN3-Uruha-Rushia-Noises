@@ -60,7 +60,7 @@ public class AppMenu extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent i = new Intent(android.content.Intent.ACTION_VIEW);
-                i.setData(Uri.parse("https://www.youtube.com/channel/UCdYR5Oyz8Q4g0ZmB4PkTD7g"));
+                i.setData(Uri.parse("https://www.youtube.com/channel/UCl_gCybOJRIgOXw6Qb4qJzQ"));
                 startActivity(i);
             }
         });
@@ -194,14 +194,9 @@ public class AppMenu extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent i = new Intent(android.content.Intent.ACTION_VIEW);
-                i.setData(Uri.parse("https://github.com/YuzuMin/IndieVtuberJP-Amatsuka-Uto-Noises/tree/main/Assets"));
+                i.setData(Uri.parse("https://github.com/YuzuMin/Hololive-GEN3-Uruha-Rushia-Noises/tree/main/Assets"));
                 startActivity(i);
 
-                /*
-                Intent intent;
-                intent = new Intent(AppMenu.this, AssetDownload.class);
-                startActivity(intent);
-                 */
             }
         });
         AppDownload.setOnTouchListener(new View.OnTouchListener() {
