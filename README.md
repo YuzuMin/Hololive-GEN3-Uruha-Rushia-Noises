@@ -7,6 +7,29 @@ The interface of Rushia Noises is designed to be simple, intuitive and efficient
 alt="Get it on Google Play"
 height="80">](https://play.google.com/store/apps/details?id=com.yuzumin.rushianoises)
 
+# Screenshots  
+<img src="Screenshots/1.png"
+alt="homescreen"
+height="350">
+<img src="Screenshots/2.png"
+alt="homescreen"
+height="350">
+<img src="Screenshots/3.png"
+alt="homescreen"
+height="350">
+<img src="Screenshots/4.png"
+alt="homescreen"
+height="350">
+<img src="Screenshots/5.png"
+alt="homescreen"
+height="350">
+<img src="Screenshots/6.png"
+alt="homescreen"
+height="350">
+<img src="Screenshots/7.png"
+alt="homescreen"
+height="350">
+
 # Features
 * 55 Noises
 * GitHub Downloads
